@@ -18,4 +18,5 @@ This project is dedicated to developing a solution that enables the direct trans
 
 ## Contact Me 📫
 - **Email**: danmo6321@gmail.com
+
 Thank you for visiting my GitHub profile! If you're interested in my projects or have any questions, feel free to contact me. 😊
