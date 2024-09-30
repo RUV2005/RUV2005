@@ -3,7 +3,7 @@
 I'm a college student from Wuhan, skilled in full-stack development and familiar with Java, Kotlin, Swift, and Python. I'm passionate about creating innovative apps and solutions. 🚀
 
 ## My Skills
-- **Frontend Development**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+- **Frontend Development**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
 - **Backend Development**: ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 - **Mobile Development**: ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white)
 - **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
