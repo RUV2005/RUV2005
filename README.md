@@ -13,7 +13,7 @@ I'm a college student from Wuhan, skilled in full-stack development and familiar
 This project is dedicated to developing a solution that enables the direct transmission of sound signals captured by a microphone to a speaker, facilitating immediate audio playback. This solution is particularly suited for scenarios requiring real-time audio feedback, such as public speaking, live performances, and educational demonstrations.
 
 ## GitHub Stats 📊
-![Danmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruv2005&show_icons=true&theme=radical)
+![Danmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruv2005&show_icons=false&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruv2005&layout=compact&theme=radical)
 
 ## Contact Me 📫
