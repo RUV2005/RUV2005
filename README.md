@@ -11,6 +11,8 @@ I'm a college student from Wuhan, skilled in full-stack development and familiar
 ## Projects
 ### LOUD-SPEAKER-ANDROID 📢
 This project is dedicated to developing a solution that enables the direct transmission of sound signals captured by a microphone to a speaker, facilitating immediate audio playback. This solution is particularly suited for scenarios requiring real-time audio feedback, such as public speaking, live performances, and educational demonstrations.
+### screensaver
+AppThis SwiftUI app displays motivational quotes and weather information on a screen saver. It also provides hourly reminders to help you stay positive and productive throughout the day.
 
 ## GitHub Stats 📊
 ![Danmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruv2005&show_icons=true&theme=radical)
