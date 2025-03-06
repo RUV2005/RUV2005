@@ -86,5 +86,74 @@ graph TD
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ruv2005&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile views">
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 158.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 13 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                34 commits          █████████░░░░░░░░░░░░░░░░   36.96 % 
+🌆 Daytime                29 commits          ████████░░░░░░░░░░░░░░░░░   31.52 % 
+🌃 Evening                18 commits          █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+🌙 Night                  11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   29 commits          ████████░░░░░░░░░░░░░░░░░   31.52 % 
+Tuesday                  16 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Wednesday                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   21 commits          ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Saturday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Kotlin** 
+
+```text
+Kotlin                   4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+Dart                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Swift                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+
+
+ Last Updated on 06/03/2025 18:21:37 UTC
 <!--END_SECTION:waka-->
 </p>
