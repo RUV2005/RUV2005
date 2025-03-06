@@ -41,7 +41,7 @@
 
 **Performance Metrics**:
 ```text
-├── Inference Speed: 350ms (Readmi K80)
+├── Inference Speed: 47ms (Pixel 6)
 ├── Memory Footprint: 18MB (TensorFlow Lite)
 ├── Power Consumption: 2.3mA avg (Light-sensing mode)
 └── Frame Processing: 21.3fps @ 640x480
@@ -57,10 +57,6 @@ graph TD
     E --> F[TTS Engine]
     E --> G[Vibration Controller]
     E --> H[Ambient Light Adapter]
-    H --> I[Android SensorManager]
-    G --> J[Vibrator API]
-    F --> K[Huawei TTS]
-    F --> L[Xiaomi TTS]
 ```
 
 ### 🔊 [Loud Speaker Android](https://github.com/ruv2005/LOUD-SPEAKER-ANDROID)
@@ -73,9 +69,26 @@ graph TD
 
 **Key Metrics**:
 ```text
-├── Audio Latency: 500ms (95th percentile)
+├── Audio Latency: 48ms (95th percentile)
 ├── Memory Usage: 12MB resident size
 └── CPU Utilization: 18% avg (SDM845)
+```
+
+### 🖥️ [ScreenSaver Motivator](https://github.com/ruv2005/screensaver)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-5.7-FFAC45?logo=swift)](https://developer.apple.com/xcode/swiftui/)
+[![App Store](https://img.shields.io/badge/_App_Store-0D96F6?logo=app-store)]()
+
+**Architecture**:
+```mermaid
+graph TD
+    A[Context Manager] --> B{Environment Data}
+    B --> C[Weather Service]
+    B --> D[Calendar Integration]
+    A --> E[Content Engine]
+    E --> F[Quote Database]
+    E --> G[Visual Generator]
+    G --> H[SwiftUI Canvas]
+    G --> I[Core Animation]
 ```
 
 ---
@@ -93,84 +106,11 @@ graph TD
 ## 🧭 Current Exploration Trajectory
 
 - **Edge AI**: Optimizing EfficientDet quantization strategies (98% INT8 accuracy retention)
-- **Sensor Fusion**: Developing IMU-assisted positioning (Test phase error <0.5m)
-- **Accessibility**: Building multilingual TTS framework (12 languages supported)
-- **Performance**: Implementing CameraX+HWASan memory safety solution
+- **Audio Processing**: Developing ML-based noise suppression using TF-Lite
+- **Cross-Platform**: Shared KMM module for Android/iOS audio pipelines
+- **Performance**: WebAssembly SIMD optimizations for real-time processing
 
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 158.0 kB Used in GitHub's Storage 
- > 
-> 🏆 13 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                34 commits          █████████░░░░░░░░░░░░░░░░   35.79 % 
-🌆 Daytime                29 commits          ████████░░░░░░░░░░░░░░░░░   30.53 % 
-🌃 Evening                18 commits          █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-🌙 Night                  14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   29 commits          ████████░░░░░░░░░░░░░░░░░   30.53 % 
-Tuesday                  16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Wednesday                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   24 commits          ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-Saturday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Kotlin** 
-
-```text
-Kotlin                   4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-Dart                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Swift                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
-
-
- Last Updated on 06/03/2025 18:46:37 UTC
 <!--END_SECTION:waka-->
