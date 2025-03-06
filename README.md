@@ -62,12 +62,11 @@
 <p align="center">
   <a href="https://github.com/ruv2005">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ruv2005&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ruv2005&theme=radical&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruv2005&layout=compact&theme=radical&hide_border=true&langs_count=8">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruv2005&layout=compact&theme=radical&hide_border=true&langs_count=8">
 </p>
 
 ---
