@@ -41,7 +41,7 @@
 
 **Performance Metrics**:
 ```text
-├── Inference Speed: 47ms (Pixel 6)
+├── Inference Speed: 350ms (Readmi K80)
 ├── Memory Footprint: 18MB (TensorFlow Lite)
 ├── Power Consumption: 2.3mA avg (Light-sensing mode)
 └── Frame Processing: 21.3fps @ 640x480
@@ -69,7 +69,7 @@ graph TD
 
 **Key Metrics**:
 ```text
-├── Audio Latency: 48ms (95th percentile)
+├── Audio Latency: 500ms (95th percentile)
 ├── Memory Usage: 12MB resident size
 └── CPU Utilization: 18% avg (SDM845)
 ```
