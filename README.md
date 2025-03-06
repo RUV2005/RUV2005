@@ -70,7 +70,6 @@ graph TD
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ruv2005&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-| <img src="https://github-readme-stats.vercel.app/api?username=ruv2005&show_icons=true&theme=react&hide_border=true&count_private=true" width="400"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruv2005&theme=react&hide_border=true" width="400"/> |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 
 </div>
