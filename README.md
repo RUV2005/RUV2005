@@ -85,6 +85,6 @@ graph TD
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ruv2005&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile views">
-  <a href="https://wakatime.com/@ruv2005">
-  </a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </p>
