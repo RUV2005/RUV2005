@@ -82,11 +82,7 @@ graph TD
 - **Architecture**: Building event-driven microservices with Kafka and Spring Cloud
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruv2005&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile views">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
