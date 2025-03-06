@@ -91,7 +91,7 @@ graph TD
 
 > 📦 158.0 kB Used in GitHub's Storage 
  > 
-> 🏆 15 Contributions in the Year 2025
+> 🏆 13 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,23 +102,41 @@ graph TD
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                34 commits          █████████░░░░░░░░░░░░░░░░   36.17 % 
-🌆 Daytime                29 commits          ████████░░░░░░░░░░░░░░░░░   30.85 % 
-🌃 Evening                18 commits          █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-🌙 Night                  13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+🌞 Morning                34 commits          █████████░░░░░░░░░░░░░░░░   35.79 % 
+🌆 Daytime                29 commits          ████████░░░░░░░░░░░░░░░░░   30.53 % 
+🌃 Evening                18 commits          █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+🌙 Night                  14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   29 commits          ████████░░░░░░░░░░░░░░░░░   30.85 % 
-Tuesday                  16 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Wednesday                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Monday                   29 commits          ████████░░░░░░░░░░░░░░░░░   30.53 % 
+Tuesday                  16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Wednesday                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   23 commits          ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
-Saturday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Friday                   24 commits          ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+Saturday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Kotlin** 
 
@@ -132,7 +150,11 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 06/03/2025 18:31:31 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
+
+
+ Last Updated on 06/03/2025 18:46:37 UTC
 <!--END_SECTION:waka-->
 </p>
