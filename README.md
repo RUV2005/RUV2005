@@ -60,7 +60,6 @@
 <p align="center">
   <a href="https://github.com/ruv2005">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ruv2005&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ruv2005&theme=radical&hide_border=true" />
   </a>
 </p>
 
