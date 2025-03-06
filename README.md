@@ -113,4 +113,77 @@ graph TD
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 158.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 13 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                34 commits          █████████░░░░░░░░░░░░░░░░   34.34 % 
+🌆 Daytime                29 commits          ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+🌃 Evening                18 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+🌙 Night                  18 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   29 commits          ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+Tuesday                  16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Wednesday                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   28 commits          ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+Saturday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Kotlin** 
+
+```text
+Kotlin                   4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+Dart                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Swift                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
+
+
+ Last Updated on 06/03/2025 19:04:01 UTC
 <!--END_SECTION:waka-->
