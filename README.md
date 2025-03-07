@@ -113,7 +113,9 @@ graph TD
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-86-blue)
 
 **🐱 My GitHub Data** 
 
@@ -188,5 +190,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2025 16:48:20 UTC
+ Last Updated on 07/03/2025 18:45:57 UTC
 <!--END_SECTION:waka-->
