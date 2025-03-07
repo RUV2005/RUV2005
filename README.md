@@ -35,7 +35,7 @@
 [![Model Accuracy](https://img.shields.io/badge/mAP@0.5-82.3%25-brightgreen)]()
 
 **Technical Triumphs**:
-- Real-time 80+ object detection with <200ms latency (Optimized EfficientDet-Lite0)
+- Real-time 80+ object detection with <400ms latency (Optimized EfficientDet-Lite0)
 - 16-direction spatial localization (±5° precision)
 - 98% device compatibility rate (Huawei/Xiaomi full-series support)
 
@@ -63,7 +63,7 @@ graph TD
 [![Play Store](https://img.shields.io/badge/🚀_Play_Store-414141?logo=google-play)]()
 
 **Technical Triumphs**:
-- Achieved <50ms audio latency using custom OpenSL ES pipeline
+- Achieved <600ms audio latency using custom OpenSL ES pipeline
 - Implemented real-time FFT processing with NEON intrinsics
 - Developed cross-thread synchronization using lock-free queues
 
