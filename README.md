@@ -14,7 +14,7 @@
 
 ### **Core Competencies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,swift,kotlin,android,spring,nodejs,aws,docker,redis,mongodb,mysql&perline=7" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=react,vue,ts,swift,kotlin,spring,nodejs,aws,docker,redis,mongodb,mysql&perline=7" alt="Tech Stack">
 </p>
 
 ### **Deep Expertise**
