@@ -113,7 +113,7 @@ graph TD
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
 
@@ -130,21 +130,21 @@ graph TD
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                36 commits          ████████░░░░░░░░░░░░░░░░░   30.77 % 
-🌆 Daytime                42 commits          █████████░░░░░░░░░░░░░░░░   35.90 % 
-🌃 Evening                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-🌙 Night                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+🌞 Morning                38 commits          ████████░░░░░░░░░░░░░░░░░   31.93 % 
+🌆 Daytime                42 commits          █████████░░░░░░░░░░░░░░░░   35.29 % 
+🌃 Evening                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+🌙 Night                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-Tuesday                  28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-Wednesday                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   33 commits          ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Sunday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Monday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+Tuesday                  28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Wednesday                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Thursday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Friday                   33 commits          ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Sunday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 ```
 
 
@@ -154,23 +154,23 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   38 mins             ██████████████████████░░░   86.55 % 
-PowerShell               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Groovy                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Kotlin                   38 mins             ████████████████████░░░░░   79.34 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+PowerShell               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-Android Studio           39 mins             ██████████████████████░░░   88.71 % 
-VS Code                  4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Android Studio           39 mins             ████████████████████░░░░░   81.33 % 
+VS Code                  9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
 
 🐱‍💻 Projects: 
-guide                    39 mins             ██████████████████████░░░   88.71 % 
-桌面                       3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-obstacle-detection       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+guide                    39 mins             ████████████████████░░░░░   81.33 % 
+桌面                       7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+obstacle-detection       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -190,5 +190,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2025 18:47:45 UTC
+ Last Updated on 13/03/2025 18:47:17 UTC
 <!--END_SECTION:waka-->
