@@ -113,13 +113,13 @@ graph TD
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 158.1 kB Used in GitHub's Storage 
+> 📦 158.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -154,23 +154,24 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 23 mins       █████████████████████░░░░   84.94 % 
-YAML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-PowerShell               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Kotlin                   4 hrs 17 mins       █████████████████████░░░░   84.01 % 
+YAML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+XML                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+PowerShell               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 16 mins       █████████████████████░░░░   82.91 % 
-Android Studio           44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Cursor                   4 hrs 19 mins       █████████████████████░░░░   84.64 % 
+Android Studio           38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🐱‍💻 Projects: 
-guide                    5 hrs               ████████████████████████░   97.14 % 
-桌面                       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+guide                    4 hrs 54 mins       ████████████████████████░   96.35 % 
+桌面                       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+题库                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-Windows                  5 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -190,5 +191,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2025 18:43:42 UTC
+ Last Updated on 16/03/2025 18:45:07 UTC
 <!--END_SECTION:waka-->
