@@ -154,21 +154,20 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   3 hrs 52 mins       ████████████████████░░░░░   81.07 % 
-YAML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-HTML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+HTML                     20 mins             █████████████████░░░░░░░░   69.23 % 
+Kotlin                   6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 46 mins       █████████████████████████   100.00 % 
+Cursor                   29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-guide                    4 hrs 23 mins       ███████████████████████░░   92.02 % 
-2301020326程文龙            20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-题库                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+2301020326程文龙            20 mins             █████████████████░░░░░░░░   69.76 % 
+guide                    6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+题库                       2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 💻 Operating System: 
-Windows                  4 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -188,5 +187,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2025 18:46:32 UTC
+ Last Updated on 22/03/2025 18:43:27 UTC
 <!--END_SECTION:waka-->
