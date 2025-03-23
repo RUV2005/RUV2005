@@ -119,7 +119,7 @@ graph TD
 
 **🐱 My GitHub Data** 
 
-> 📦 158.2 kB Used in GitHub's Storage 
+> 📦 158.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -154,20 +154,19 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     20 mins             █████████████████░░░░░░░░   69.23 % 
-Kotlin                   6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+HTML                     20 mins             ███████████████████░░░░░░   75.15 % 
+Kotlin                   6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-Cursor                   29 mins             █████████████████████████   100.00 % 
+Cursor                   27 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-2301020326程文龙            20 mins             █████████████████░░░░░░░░   69.76 % 
-guide                    6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-题库                       2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+2301020326程文龙            20 mins             ███████████████████░░░░░░   75.72 % 
+guide                    6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -187,5 +186,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
 
 
- Last Updated on 22/03/2025 18:43:27 UTC
+ Last Updated on 23/03/2025 18:44:08 UTC
 <!--END_SECTION:waka-->
