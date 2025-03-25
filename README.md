@@ -156,19 +156,17 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     20 mins             ███████████████████░░░░░░   75.15 % 
-Kotlin                   6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+HTML                     20 mins             █████████████████████████   99.25 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-Cursor                   27 mins             █████████████████████████   100.00 % 
+Cursor                   20 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-2301020326程文龙            20 mins             ███████████████████░░░░░░   75.72 % 
-guide                    6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+2301020326程文龙            20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+Windows                  20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -188,5 +186,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
 
 
- Last Updated on 24/03/2025 18:48:12 UTC
+ Last Updated on 25/03/2025 18:48:02 UTC
 <!--END_SECTION:waka-->
