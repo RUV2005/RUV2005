@@ -119,9 +119,7 @@ graph TD
 
 **🐱 My GitHub Data** 
 
-> 📦 158.1 kB Used in GitHub's Storage 
- > 
-> 🏆 40 Contributions in the Year 2025
+> 📦 187.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -132,21 +130,21 @@ graph TD
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                38 commits          ████████░░░░░░░░░░░░░░░░░   31.93 % 
-🌆 Daytime                42 commits          █████████░░░░░░░░░░░░░░░░   35.29 % 
-🌃 Evening                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-🌙 Night                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+🌞 Morning                39 commits          ████████░░░░░░░░░░░░░░░░░   32.50 % 
+🌆 Daytime                42 commits          █████████░░░░░░░░░░░░░░░░   35.00 % 
+🌃 Evening                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+🌙 Night                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-Tuesday                  28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Wednesday                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Thursday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Friday                   33 commits          ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Sunday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Monday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+Tuesday                  28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Thursday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Friday                   33 commits          ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Sunday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 ```
 
 
@@ -156,17 +154,16 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     20 mins             █████████████████████████   99.25 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-2301020326程文龙            20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -186,5 +183,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2025 18:48:02 UTC
+ Last Updated on 26/03/2025 18:47:56 UTC
 <!--END_SECTION:waka-->
