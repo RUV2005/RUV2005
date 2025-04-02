@@ -113,7 +113,7 @@ graph TD
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -154,16 +154,20 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   48 mins             ██████████████████░░░░░░░   72.02 % 
+Kotlin                   17 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  49 mins             ██████████████████░░░░░░░   73.27 % 
+Cursor                   17 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          49 mins             ██████████████████░░░░░░░   73.27 % 
+guide                    17 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -183,5 +187,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2025 18:48:24 UTC
+ Last Updated on 02/04/2025 18:47:52 UTC
 <!--END_SECTION:waka-->
