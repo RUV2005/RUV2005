@@ -113,15 +113,13 @@ graph TD
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 158.7 kB Used in GitHub's Storage 
- > 
-> 🏆 53 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -132,21 +130,21 @@ graph TD
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                42 commits          ████████░░░░░░░░░░░░░░░░░   32.56 % 
-🌆 Daytime                45 commits          █████████░░░░░░░░░░░░░░░░   34.88 % 
-🌃 Evening                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-🌙 Night                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+🌞 Morning                42 commits          ████████░░░░░░░░░░░░░░░░░   32.31 % 
+🌆 Daytime                45 commits          █████████░░░░░░░░░░░░░░░░   34.62 % 
+🌃 Evening                22 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+🌙 Night                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   32 commits          ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-Tuesday                  34 commits          ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-Wednesday                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Thursday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Friday                   33 commits          ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Sunday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Monday                   32 commits          ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+Tuesday                  34 commits          ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Thursday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Friday                   33 commits          ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Sunday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 ```
 
 
@@ -156,20 +154,16 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   48 mins             ██████████████████░░░░░░░   72.02 % 
-Kotlin                   17 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Vue.js                   2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  49 mins             ██████████████████░░░░░░░   73.27 % 
-Cursor                   17 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          49 mins             ██████████████████░░░░░░░   73.27 % 
-guide                    17 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+wisdom_for_the_blind     2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -189,5 +183,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
 
 
- Last Updated on 08/04/2025 18:48:31 UTC
+ Last Updated on 09/04/2025 18:47:36 UTC
 <!--END_SECTION:waka-->
