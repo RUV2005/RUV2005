@@ -121,6 +121,8 @@ graph TD
 
 > 📦 158.7 kB Used in GitHub's Storage 
  > 
+> 🏆 55 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -154,18 +156,18 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   1 hr 34 mins        ████████████████████████░   94.01 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Vue.js                   1 hr 31 mins        ███████████████████████░░   93.86 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wisdom_for_the_blind     1 hr 40 mins        █████████████████████████   100.00 % 
+wisdom_for_the_blind     1 hr 37 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 40 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -185,5 +187,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2025 18:47:43 UTC
+ Last Updated on 16/04/2025 18:48:38 UTC
 <!--END_SECTION:waka-->
