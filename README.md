@@ -113,11 +113,15 @@ graph TD
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2021%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 167.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 59 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -125,6 +129,45 @@ graph TD
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                49 commits          ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+🌆 Daytime                68 commits          ██████████░░░░░░░░░░░░░░░   40.96 % 
+🌃 Evening                26 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+🌙 Night                  23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   37 commits          ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+Tuesday                  52 commits          ████████░░░░░░░░░░░░░░░░░   31.33 % 
+Wednesday                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Thursday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Friday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Saturday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Sunday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -142,5 +185,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2025 18:48:09 UTC
+ Last Updated on 03/05/2025 18:45:51 UTC
 <!--END_SECTION:waka-->
