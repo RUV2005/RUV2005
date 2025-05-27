@@ -94,7 +94,7 @@ graph TD
 ---
 
 ### 💡 [MingMou](https://github.com/ruv2005/mingmou)
-[![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-2.8+-FF6F00?logo=tensorflow)](https://www.tensorflow.org/lite)
+[![TensorFlow Lite](https://img.shields.io/badge/ML-Kit-FF6F00)](https://developers.google.com/ml-kit)
 [![Android API](https://img.shields.io/badge/Android-9%2B-3DDC84?logo=android)]()
 
 > **A hybrid online+offline OCR application for low-vision and visually impaired users. Supports classroom PPT/blackboard reading and physical book reading, with seamless switching between the built-in camera and external ESP32-CAM device via AP mode video streaming.**
@@ -243,7 +243,7 @@ graph TD
 ---
 
 ### 💡 [明眸 (MingMou)](https://github.com/ruv2005/mingmou)
-[![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-2.8+-FF6F00?logo=tensorflow)](https://www.tensorflow.org/lite)
+[![ML Kit](https://img.shields.io/badge/ML-KIT-FF6F00)](https://developers.google.com/ml-kit)
 [![Android API](https://img.shields.io/badge/Android-9%2B-3DDC84?logo=android)]()
 
 > **一款融合在线+离线 OCR 的应用，专为低视力和视力障碍人士设计。支持课堂 PPT/黑板和实体书的阅读场景，通过 AP 模式连接 ESP32-CAM 实现外置摄像头视频流，内置/外置摄像头无缝热切换，极致无障碍体验。**
