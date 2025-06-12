@@ -320,11 +320,13 @@ graph TD
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 167.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 78 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -335,21 +337,21 @@ graph TD
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                57 commits          ████████░░░░░░░░░░░░░░░░░   30.98 % 
-🌆 Daytime                75 commits          ██████████░░░░░░░░░░░░░░░   40.76 % 
-🌃 Evening                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-🌙 Night                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+🌞 Morning                57 commits          ████████░░░░░░░░░░░░░░░░░   30.81 % 
+🌆 Daytime                76 commits          ██████████░░░░░░░░░░░░░░░   41.08 % 
+🌃 Evening                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+🌙 Night                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   40 commits          █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Tuesday                  62 commits          ████████░░░░░░░░░░░░░░░░░   33.70 % 
-Wednesday                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Thursday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Friday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Saturday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Sunday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Monday                   40 commits          █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Tuesday                  62 commits          ████████░░░░░░░░░░░░░░░░░   33.51 % 
+Wednesday                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Thursday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Friday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Saturday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Sunday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 ```
 
 
@@ -388,5 +390,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2025 18:51:31 UTC
+ Last Updated on 12/06/2025 18:50:44 UTC
 <!--END_SECTION:waka-->
