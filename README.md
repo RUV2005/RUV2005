@@ -318,11 +318,13 @@ graph TD
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2023%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 234.2 kB Used in GitHub's Storage 
+> 📦 234.1 kB Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2026
  > 
@@ -332,6 +334,45 @@ graph TD
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                62 commits          ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+🌆 Daytime                85 commits          ██████████░░░░░░░░░░░░░░░   39.91 % 
+🌃 Evening                33 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+🌙 Night                  33 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   45 commits          █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+Tuesday                  67 commits          ████████░░░░░░░░░░░░░░░░░   31.46 % 
+Wednesday                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Thursday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Friday                   39 commits          █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Saturday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Sunday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -349,5 +390,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 19:00:52 UTC
+ Last Updated on 03/02/2026 19:26:50 UTC
 <!--END_SECTION:waka-->
