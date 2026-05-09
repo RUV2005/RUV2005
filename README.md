@@ -324,7 +324,7 @@ graph TD
 
 **🐱 My GitHub Data** 
 
-> 📦 235.5 kB Used in GitHub's Storage 
+> 📦 235.9 kB Used in GitHub's Storage 
  > 
 > 🏆 20 Contributions in the Year 2026
  > 
@@ -377,10 +377,10 @@ No Activity Tracked This Week
 
 ```text
 Kotlin                   7 repos             ██████████░░░░░░░░░░░░░░░   41.18 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Dart                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -390,5 +390,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2026 19:54:46 UTC
+ Last Updated on 09/05/2026 19:40:25 UTC
 <!--END_SECTION:waka-->
