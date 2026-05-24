@@ -318,6 +318,8 @@ graph TD
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2023%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -332,6 +334,45 @@ graph TD
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                63 commits          ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+🌆 Daytime                91 commits          ██████████░░░░░░░░░░░░░░░   40.81 % 
+🌃 Evening                36 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+🌙 Night                  33 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   46 commits          █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Tuesday                  67 commits          ████████░░░░░░░░░░░░░░░░░   30.04 % 
+Wednesday                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Thursday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Friday                   42 commits          █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Saturday                 20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Sunday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -349,5 +390,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2026 19:44:44 UTC
+ Last Updated on 24/05/2026 19:46:43 UTC
 <!--END_SECTION:waka-->
