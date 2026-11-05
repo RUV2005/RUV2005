@@ -83,7 +83,7 @@ A kalimba practice app whose entire interface can be operated by voice and gestu
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,swift,cpp,qt,cs,python,ts,js&perline=8" alt="Languages and frameworks"><br>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,cloudflare,androidstudio,xcode,vscode&perline=8" alt="Platforms and tools">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,cloudflare,androidstudio,apple,vscode&perline=8" alt="Platforms and tools">
 </p>
 
 | Domain | What I actually work with | Evidence |
