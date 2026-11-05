@@ -83,6 +83,7 @@ A kalimba practice app whose entire interface can be operated by voice and gestu
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,swift,cpp,qt,cs,python,ts,js&perline=8" alt="Languages and frameworks"><br>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,vue,nuxtjs,mysql,sqlite&perline=6" alt="Cross-platform, web and data"><br>
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,cloudflare,androidstudio,apple,vscode&perline=8" alt="Platforms and tools">
 </p>
 
@@ -91,6 +92,9 @@ A kalimba practice app whose entire interface can be operated by voice and gestu
 | Android | Kotlin, CameraX, TensorFlow Lite, accessibility services | guide, mingmou, Kalimba |
 | iOS / macOS | Swift, SwiftUI, Speech framework, sideload CI pipelines | caption tooling, SwiftUI apps |
 | Desktop | C++ / Qt WebEngine, C# / WPF | Intelnet Browser, Windows utilities |
+| Cross-platform | Flutter / Dart, desktop multi-window & tray, platform channels | quiet_notification, Easytransfer |
+| Web | Vue / Nuxt, TypeScript, Cloudflare Workers & R2 | nuxt-app; guangji.online site & downloads |
+| Backend & Data | Python services, WebSocket, MySQL, SQLite | quiet_notification push server; database migration work |
 | On-device AI | llama.cpp / GGUF, TFLite, model quantization trade-offs | local image description in production |
 | Systems & Ops | Linux, Docker, server hardware, RAID, BMC remote management | hands-on with enterprise rack servers (hardware, install, troubleshooting) |
 | Hardware | PCB design (KiCad, learning in public), ESP32, board-level repair | caption glasses prototype |
@@ -151,7 +155,7 @@ A kalimba practice app whose entire interface can be operated by voice and gestu
 
 ### 技术面
 
-Android（Kotlin）、iOS（Swift / SwiftUI）、桌面端（C++ / Qt、C# / WPF）、端侧 AI（TensorFlow Lite、llama.cpp / GGUF）、Linux 与服务器运维（有企业级机架服务器的拆装、装机与排障实操），目前在自学 PCB 设计和 Kubernetes，给自研的实时字幕眼镜做硬件原型。
+Android（Kotlin）、iOS（Swift / SwiftUI）、桌面端（C++ / Qt、C# / WPF）、跨平台（Flutter / Dart，桌面端多窗口与原生桥接）、Web（Nuxt、Cloudflare Workers）、后端与数据（Python 服务、WebSocket、MySQL / SQLite）、端侧 AI（TensorFlow Lite、llama.cpp / GGUF）、Linux 与服务器运维（有企业级机架服务器的拆装、装机与排障实操），目前在自学 PCB 设计和 Kubernetes，给自研的实时字幕眼镜做硬件原型。
 
 ### 联系
 
