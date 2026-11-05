@@ -101,10 +101,12 @@ A kalimba practice app whose entire interface can be operated by voice and gestu
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RUV2005&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RUV2005&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/github/stars/RUV2005?style=flat&logo=github&label=Total%20Stars" alt="Total Stars">
+<img src="https://img.shields.io/github/followers/RUV2005?style=flat&logo=github&label=Followers" alt="Followers">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RUV2005&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br><br>
+
+[![Contribution Chart](https://ghchart.rshah.org/58a6ff/RUV2005)](https://github.com/RUV2005)
 
 </div>
 
