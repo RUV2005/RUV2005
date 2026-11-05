@@ -1,139 +1,99 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Danmo;Full-Stack+%7C+Edge+AI+%7C+Mobile+Specialist" alt="Intro Typing">
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Danmo&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Accessibility%20Developer%20%C2%B7%20On-device%20AI%20%C2%B7%20Mobile%20%26%20Desktop%20Systems&descAlignY=58&descSize=16" width="100%">
 
 <p align="center">
-  <a href="mailto:danmo6321@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Contact-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email">
-  </a>
+  <a href="mailto:danmo6321@gmail.com"><img src="https://img.shields.io/badge/Email-danmo6321%40gmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+  <a href="https://guangji.online"><img src="https://img.shields.io/badge/Website-guangji.online-58A6FF?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <img src="https://img.shields.io/badge/Focus-Accessibility%20%2F%20Assistive%20Tech-2ea44f?style=flat" alt="Focus">
+  <img src="https://img.shields.io/badge/Based%20in-Xi'an%2C%20China-8957e5?style=flat" alt="Location">
 </p>
 
----
+<p align="right"><b>Language:</b> English | <a href="#中文版">中文</a></p>
 
-<!-- Language Switcher -->
-<p align="right">
-  <b>Language: </b>
-  <a href="#english-version">English</a> |
-  <a href="#chinese-version">中文</a>
-</p>
+## 🧑‍💻 About Me
 
----
+I am an **accessibility-first developer**. I build tools for blind and low-vision users — and, more importantly, I build them *with* blind and low-vision users: a real user community on Xiaohongshu and WeChat tests my builds, files issues and argues about details with me. That feedback loop is my actual development method.
 
-<!-- ENGLISH VERSION -->
-<div id="english-version">
+My work lives at the intersection of three things:
 
-## 🧑‍💼 About Me
+- **Assistive products** — browsers, OCR readers and navigation aids designed for screen-reader and voice-first workflows from day one
+- **On-device AI** — vision and language models that run locally (TensorFlow Lite, llama.cpp / GGUF), because assistive tools must work offline and must never upload what a user is looking at
+- **Systems underneath** — Linux, Docker, and hands-on enterprise server hardware (rack servers, RAID, BMC remote management), so the products above rest on skills I have actually practiced
 
-- 💻 Focused on innovative fusion of mobile and AI technologies
-- 🧠 Passionate about audio/video, real-time communication, and system performance
-- 🌱 Currently exploring Edge AI, cross-platform development, and WebAssembly
+> A visually impaired user once described what she wanted from image description in five words: *"I just want to know what's in the picture."* That sentence is the spec for most of what I build.
 
 ---
 
-## 📑 Table of Contents
+## 🚀 Featured Projects
 
-- [🧰 Technical Toolbox](#-technical-toolbox)
-- [🚀 Featured Innovations](#-featured-innovations)
-- [📊 Development Analytics](#-development-analytics)
-- [🧭 Current Exploration Trajectory](#-current-exploration-trajectory)
-- [📣 Contact](#-contact)
+### 🌐 Intelnet Browser （明镜浏览器） — *main project*
+
+[![Repo](https://img.shields.io/badge/GitHub-RUV2005%2Fintelnet--browser-181717?logo=github)](https://github.com/RUV2005/intelnet-browser)
+![C++](https://img.shields.io/badge/C%2B%2B-Qt%20WebEngine-00599C?logo=cplusplus)
+![License](https://img.shields.io/badge/License-GPLv3-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows)
+
+A desktop browser designed from the start for screen-reader and low-vision users. Accessibility here is the architecture, not a plugin.
+
+- **Local image description** — Qwen2-VL-2B-Instruct in GGUF form (llama.cpp runtime), fully on-device. The image never leaves the computer.
+- **Reading pipeline** — page simplification, element translation and reading order tuned for assistive navigation
+- **Distribution** — installers served from Cloudflare R2, site and docs at [guangji.online](https://guangji.online)
+- **License** — GPLv3, deliberately: assistive tooling built on public work should stay public
+
+```mermaid
+graph LR
+    A[WebEngine Page] --> B[Accessibility Tree<br/>+ Reading Pipeline]
+    B --> C[Image Nodes]
+    C --> D[llama.cpp Runtime]
+    D --> E[Qwen2-VL-2B GGUF<br/>local inference]
+    E --> F[Spoken Description<br/>via Screen Reader / TTS]
+    B --> G[Simplified Reading View]
+```
+
+### 👁️ [guide](https://github.com/RUV2005/guide) — spatial awareness for blind users
+
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?logo=kotlin)
+![TFLite](https://img.shields.io/badge/TensorFlow%20Lite-on--device-FF6F00?logo=tensorflow)
+
+Real-time object detection on Android that answers two questions for a blind user: *what is around me, and in which direction?*
+
+- On-device detection (TensorFlow Lite), no network dependency outdoors
+- Direction-aware feedback: results are mapped to clock-face directions and delivered by voice + vibration patterns
+- Designed for one-handed, eyes-free operation
+
+### 📖 [mingmou](https://github.com/RUV2005/mingmou) — OCR reading assistant
+
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?logo=kotlin)
+![MLKit](https://img.shields.io/badge/ML%20Kit-OCR-FF6F00?logo=google)
+
+Reading assistant for low-vision users, built for classrooms and paper books.
+
+- Hybrid recognition: cloud OCR when online, on-device OCR when not
+- External camera support: an ESP32-CAM streams over its own access point, so the phone can stay in a pocket while the camera sits on the book
+- Voice-first UI throughout
+
+### 🎵 [Kalimba](https://github.com/RUV2005/Kalimba) — accessible music practice
+
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?logo=kotlin)
+
+A kalimba practice app whose entire interface can be operated by voice and gesture alone — practice, tuning feedback and progress tracking without looking at the screen.
 
 ---
 
 ## 🧰 Technical Toolbox
 
-### **Core Competencies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,swift,kotlin,spring,nodejs,aws,docker,redis,mongodb,mysql&perline=7" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=kotlin,swift,cpp,qt,cs,python,ts,js&perline=8" alt="Languages and frameworks"><br>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,cloudflare,androidstudio,xcode,vscode&perline=8" alt="Platforms and tools">
 </p>
 
-### **Deep Expertise**
-| Category       | Technologies                                                                 |
-|----------------|-----------------------------------------------------------------------------|
-| Mobile Native  | Android NDK • Core Audio • ARCore • Metal API • Kotlin Multiplatform        |
-| Real-time      | WebRTC • gRPC • WebSocket • Socket.IO • LiveData                            |
-| Architecture   | Clean Architecture • MVI • MVVM • Event Sourcing • CQRS                    |
-| Performance    | Proguard • R8 • Hermes • V8 Optimization • SIMD Instructions               |
-
----
-
-## 🚀 Featured Innovations
-
-### 👁️ [Intelligent Navigation Assistant](https://github.com/ruv2005/guide)
-[![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-2.8+-FF6F00?logo=tensorflow)](https://www.tensorflow.org/lite)
-[![Android API](https://img.shields.io/badge/Android-9%2B-3DDC84?logo=android)]()
-[![Model Accuracy](https://img.shields.io/badge/mAP@0.5-82.3%25-brightgreen)]()
-
-> **A real-time spatial awareness and navigation app for the visually impaired, supporting 80+ object detection, sub-400ms end-to-end latency, and 98% device compatibility.**
-
-**Technical Triumphs**:
-- Real-time 80+ object detection with <400ms latency (Optimized EfficientDet-Lite0)
-- 16-direction spatial localization (±5° precision)
-- 98% device compatibility (full-series Huawei/Xiaomi support)
-
-**Performance Metrics**:
-```text
-├── Inference Speed: 350ms (Readmi K80)
-├── Memory Footprint: 18MB (TensorFlow Lite)
-├── Power Consumption: 2.3mA avg (Light-sensing mode)
-└── Frame Processing: 21.3fps @ 640x480
-```
-
-**System Architecture**:
-```mermaid
-graph TD
-    A[CameraX] --> B{Image Preprocessing}
-    B --> C[TFLite Inference Engine]
-    C --> D[Spatial Coordinate Mapping]
-    D --> E[Multi-level Feedback Decision]
-    E --> F[TTS Engine]
-    E --> G[Vibration Controller]
-    E --> H[Ambient Light Adapter]
-```
-
----
-
-### 💡 [MingMou](https://github.com/ruv2005/mingmou)
-[![TensorFlow Lite](https://img.shields.io/badge/ML-Kit-FF6F00)](https://developers.google.com/ml-kit)
-[![Android API](https://img.shields.io/badge/Android-9%2B-3DDC84?logo=android)]()
-
-> **A hybrid online+offline OCR application for low-vision and visually impaired users. Supports classroom PPT/blackboard reading and physical book reading, with seamless switching between the built-in camera and external ESP32-CAM device via AP mode video streaming.**
-
-**Key Highlights**:
-- Both cloud and on-device OCR for robust and private text recognition
-- Specially optimized for classroom: Real-time projection/PPT/blackboard reading
-- ESP32-CAM as an external camera: phone connects via AP mode and streams video for OCR, ideal for reading physical books or documents
-- Seamless hot switching between internal and ESP32-CAM without interruption
-- Fully accessible UI and voice feedback
-
-**Core Metrics**:
-```text
-├── OCR Latency: <350ms (offline mode)
-├── ESP32-CAM Switch Time: <1s (hot swap, AP mode)
-├── Scene Adaptation: Classroom, slides, blackboard, books
-└── Battery Impact: <3mA (typical classroom use)
-```
-
----
-
-### 🖥️ [ScreenSaver Motivator](https://github.com/ruv2005/screensaver)
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-5.7-FFAC45?logo=swift)](https://developer.apple.com/xcode/swiftui/)
-[![App Store](https://img.shields.io/badge/_App_Store-0D96F6?logo=app-store)]()
-
-> **A dynamic screensaver + motivational quotes engine, integrating calendar, weather, and visual generation for daily inspiration.**
-
-**Architecture**:
-```mermaid
-graph TD
-    A[Context Manager] --> B{Environment Data}
-    B --> C[Weather Service]
-    B --> D[Calendar Integration]
-    A --> E[Content Engine]
-    E --> F[Quote Database]
-    E --> G[Visual Generator]
-    G --> H[SwiftUI Canvas]
-    G --> I[Core Animation]
-```
+| Domain | What I actually work with | Evidence |
+|---|---|---|
+| Android | Kotlin, CameraX, TensorFlow Lite, accessibility services | guide, mingmou, Kalimba |
+| iOS / macOS | Swift, SwiftUI, Speech framework, sideload CI pipelines | caption tooling, SwiftUI apps |
+| Desktop | C++ / Qt WebEngine, C# / WPF | Intelnet Browser, Windows utilities |
+| On-device AI | llama.cpp / GGUF, TFLite, model quantization trade-offs | local image description in production |
+| Systems & Ops | Linux, Docker, server hardware, RAID, BMC remote management | hands-on with enterprise rack servers (hardware, install, troubleshooting) |
+| Hardware | PCB design (KiCad, learning in public), ESP32, board-level repair | caption glasses prototype |
 
 ---
 
@@ -141,260 +101,58 @@ graph TD
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ruv2005&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RUV2005&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RUV2005&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruv2005&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RUV2005&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🧭 Current Exploration Trajectory
+## 🧭 Current Trajectory
 
-- **Edge AI**: EfficientDet quantization strategy optimization (98% INT8 accuracy retention)
-- **Audio Processing**: On-device ML-based noise suppression (TF-Lite)
-- **Cross-Platform**: Shared KMM audio module for Android/iOS
-- **Performance**: WebAssembly SIMD optimization for real-time AV processing
+| Direction | Status |
+|---|---|
+| Intelnet Browser: local image description | ✅ shipped, iterating with user feedback |
+| Intelnet Browser: captions for any video, generated in the browser itself | 🔨 in development |
+| Real-time caption glasses (phone-side speech-to-text + custom PCB hardware) | 🔨 prototyping |
+| Kubernetes & cloud-native ops | 🌱 learning on my laptop (WSL + k3d + VMs) |
+| PCB design, KiCad → first self-designed power board | 🌱 learning |
 
 ---
 
 ## 📣 Contact
 
-- Email: danmo6321@gmail.com
-- WeChat: danmo6321
+- **Email:** danmo6321@gmail.com
+- **Site:** [guangji.online](https://guangji.online)
+- **Issues & ideas:** the fastest way to reach me about any project is opening an issue in its repo
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=110&section=footer" width="100%">
+
+---
+
+<div id="中文版">
+
+## 中文版
+
+你好，我是 Danmo，一名以无障碍为先的开发者。
+
+我给视障用户做工具，而且是和他们一起做：小红书和微信上有真实的视障用户社群在测我的版本、提 issue、跟我争细节。这个反馈闭环就是我的开发方法。
+
+### 主要项目
+
+- **明镜浏览器（intelnet-browser）**：主线项目。为读屏和低视力用户从架构层设计的桌面浏览器，核心是完全本地运行的图片描述（Qwen2-VL GGUF 模型，图片不出设备），GPLv3 开源，官网 guangji.online。
+- **guide**：给盲人用的实时物体识别，回答“周围有什么、在哪个方向”，语音加震动反馈，全程本地推理。
+- **mingmou（明眸）**：给低视力用户的 OCR 阅读助手，读课件、黑板和纸书，可接 ESP32-CAM 外置摄像头。
+- **Kalimba**：全语音界面的卡林巴练习应用。
+
+### 技术面
+
+Android（Kotlin）、iOS（Swift / SwiftUI）、桌面端（C++ / Qt、C# / WPF）、端侧 AI（TensorFlow Lite、llama.cpp / GGUF）、Linux 与服务器运维（有企业级机架服务器的拆装、装机与排障实操），目前在自学 PCB 设计和 Kubernetes，给自研的实时字幕眼镜做硬件原型。
+
+### 联系
+
+danmo6321@gmail.com ｜ [guangji.online](https://guangji.online)
 
 </div>
-
----
-
-<!-- CHINESE VERSION -->
-<details>
-<summary id="chinese-version">🇨🇳 点击展开中文版 / Chinese Version</summary>
-
-## 🧑‍💼 关于我
-
-- 💻 专注移动端与 AI 融合创新
-- 🧠 热衷音视频/实时通信/系统性能优化
-- 🌱 目前关注 Edge AI、跨端开发、WebAssembly
-
----
-
-## 📑 目录
-
-- [🧰 技术栈](#-technical-toolbox)
-- [🚀 代表性项目](#-featured-innovations)
-- [📊 开发数据分析](#-development-analytics)
-- [🧭 近期探索方向](#-current-exploration-trajectory)
-- [📣 联系方式](#联系方式)
-
----
-
-## 🧰 技术栈
-
-### **核心能力**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,swift,kotlin,spring,nodejs,aws,docker,redis,mongodb,mysql&perline=7" alt="Tech Stack">
-</p>
-
-### **深度专长**
-| 分类           | 技术栈                                                                   |
-|----------------|--------------------------------------------------------------------------|
-| 移动原生       | Android NDK • Core Audio • ARCore • Metal API • Kotlin Multiplatform     |
-| 实时通信       | WebRTC • gRPC • WebSocket • Socket.IO • LiveData                         |
-| 架构设计       | Clean Architecture • MVI • MVVM • Event Sourcing • CQRS                  |
-| 性能优化       | Proguard • R8 • Hermes • V8 优化 • SIMD 指令集                          |
-
----
-
-## 🚀 代表性项目
-
-### 👁️ [智能导航助手](https://github.com/ruv2005/guide)
-[![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-2.8+-FF6F00?logo=tensorflow)](https://www.tensorflow.org/lite)
-[![Android API](https://img.shields.io/badge/Android-9%2B-3DDC84?logo=android)]()
-[![Model Accuracy](https://img.shields.io/badge/mAP@0.5-82.3%25-brightgreen)]()
-
-> **为视障人士设计的实时空间感知与导航应用，支持 80+ 目标检测，端到端延迟低于 400ms，兼容 98% 主流安卓设备。**
-
-**技术亮点**:
-- 实时 80+ 目标检测，延迟 <400ms（高效 EfficientDet-Lite0 优化）
-- 采用六向（2×3矩阵）空间定位方式，定位精度高达±5°，符合人体直观感知习惯，更易于理解和使用
-- 设备兼容率 98%（全系华为/小米适配）
-
-**性能参数**:
-```text
-├── 推理速度: 350ms (Readmi K80)
-├── 内存占用: 18MB (TensorFlow Lite)
-├── 功耗: 2.3mA 平均 (光感模式)
-└── 帧处理: 21.3fps @ 640x480
-```
-
-**系统架构**:
-```mermaid
-graph TD
-    A[CameraX] --> B{图像预处理}
-    B --> C[TFLite 推理引擎]
-    C --> D[空间坐标映射]
-    D --> E[多级反馈决策]
-    E --> F[TTS 引擎]
-    E --> G[振动控制器]
-    E --> H[环境光适配器]
-```
-
----
-
-### 💡 [明眸 (MingMou)](https://github.com/ruv2005/mingmou)
-[![ML Kit](https://img.shields.io/badge/ML-KIT-FF6F00)](https://developers.google.com/ml-kit)
-[![Android API](https://img.shields.io/badge/Android-9%2B-3DDC84?logo=android)]()
-
-> **一款融合在线+离线 OCR 的应用，专为低视力和视力障碍人士设计。支持课堂 PPT/黑板和实体书的阅读场景，通过 AP 模式连接 ESP32-CAM 实现外置摄像头视频流，内置/外置摄像头无缝热切换，极致无障碍体验。**
-
-**主要特性**:
-- 云端+本地 OCR 混合，保障离线及隐私需求
-- 针对课堂环境优化：PPT、黑板、讲义实时朗读
-- 支持实体书、文档等近距离阅读
-- 创新 ESP32-CAM 外置摄像头接入，手机直连 AP，低延迟视频流 OCR
-- 内置/ESP32-CAM 摄像头一键无缝切换
-- 无障碍友好 UI 与语音反馈
-
-**核心参数**:
-```text
-├── OCR 延迟: <350ms（离线模式）
-├── ESP32-CAM 切换: <1s（热切换）
-├── 场景适配: 教室、投影、黑板、实体书
-└── 电池影响: <3mA（典型课堂使用）
-```
-
----
-
-### 🖥️ [励志屏保](https://github.com/ruv2005/screensaver)
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-5.7-FFAC45?logo=swift)](https://developer.apple.com/xcode/swiftui/)
-[![App Store](https://img.shields.io/badge/_App_Store-0D96F6?logo=app-store)]()
-
-> **动态屏保 + 激励语录引擎，结合日历、天气与视觉生成，提升日常专注力。**
-
-**架构图**:
-```mermaid
-graph TD
-    A[Context Manager] --> B{环境数据}
-    B --> C[天气服务]
-    B --> D[日历集成]
-    A --> E[内容引擎]
-    E --> F[语录数据库]
-    E --> G[视觉生成器]
-    G --> H[SwiftUI 画布]
-    G --> I[Core Animation]
-```
-
----
-
-## 📊 开发数据分析
-
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ruv2005&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruv2005&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-## 🧭 近期探索方向
-
-- **Edge AI**: EfficientDet 量化策略优化（INT8 精度保留 98%）
-- **音频处理**: 基于 TF-Lite 的端侧降噪
-- **跨平台**: Android/iOS 共用 KMM 音频模块
-- **性能优化**: WebAssembly SIMD 实时音视频加速
-
----
-
-## 📣 联系方式
-
-- 邮箱: danmo6321@gmail.com
-- 微信: danmo6321
-
-</details>
-
----
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2014%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 247.7 kB Used in GitHub's Storage 
- > 
-> 🏆 44 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                70 commits          ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-🌆 Daytime                92 commits          ██████████░░░░░░░░░░░░░░░   38.33 % 
-🌃 Evening                44 commits          █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-🌙 Night                  34 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   46 commits          █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Tuesday                  76 commits          ████████░░░░░░░░░░░░░░░░░   31.67 % 
-Wednesday                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Thursday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Friday                   42 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Saturday                 20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Sunday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in Kotlin** 
-
-```text
-Kotlin                   8 repos             ██████████░░░░░░░░░░░░░░░   38.10 % 
-Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/RUV2005/RUV2005/main/assets/bar_graph.png)
-
-
- Last Updated on 31/10/2026 21:48:08 UTC
-<!--END_SECTION:waka-->
