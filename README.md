@@ -78,7 +78,15 @@ Reading assistant for low-vision users, built for classrooms and paper books.
 A kalimba practice app whose entire interface can be operated by voice and gesture alone — practice, tuning feedback and progress tracking without looking at the screen.
 
 ---
+---
 
+## 🔬 Research & Peer Review
+
+I also work on the verification side, checking whether published claims survive contact with the data and the code.
+
+- **Open peer review** — six reviews published on PREreview under my real name, Wenlong Cheng, each the first review on its preprint, covering sign language translation, assistive navigation, obstacle detection and TTS evaluation. Profile: https://prereview.org/profiles/0009-0007-3281-0189
+- **guide v2 report** — my self-trained obstacle-detection model, its dataset audit and evaluation results, published on Zenodo. DOI: https://doi.org/10.5281/zenodo.24462370
+- **Reproduction audits** — independent verification notes on the REPRO-SIGN tracker, one of which led to a fix in PR #141.
 ## 🧰 Technical Toolbox
 
 <p align="center">
@@ -152,6 +160,10 @@ A kalimba practice app whose entire interface can be operated by voice and gestu
 - **guide**：给盲人用的实时物体识别，回答“周围有什么、在哪个方向”，语音加震动反馈，全程本地推理。
 - **mingmou（明眸）**：给低视力用户的 OCR 阅读助手，读课件、黑板和纸书，可接 ESP32-CAM 外置摄像头。
 - **Kalimba**：全语音界面的卡林巴练习应用。
+
+### 评审与审计
+
+另外我也做公开同行评审与复现审计：在 PREreview 以真名发表 6 篇评审，均为所评论文的首篇；guide v2 成绩单与数据来源审计发布于 Zenodo（DOI 10.5281/zenodo.24462370）。
 
 ### 技术面
 
